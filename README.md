@@ -1,29 +1,4 @@
-# README #
-
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Backend of Book-Reservation web application. 
+The application provides services to restaurants which desire to replace there booking process to modern one via the web. 
+The Backend contains Rest API based SpringBoot Open-Source Java Framework, some logic about the booking process and connect to MongoDb exists cluster.
+In order to run this server you need to navigate to src/main/java/twins/Application.java and run this file.
